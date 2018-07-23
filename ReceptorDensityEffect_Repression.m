@@ -38,7 +38,7 @@ inducerRange = inducerRange';
 
 VmaxP1_range = [200 400 800 1600 3200];
 
-rc = true;  %decides if resource competition happens
+rc = true;  %decides if resource competition happens, note that rc only controls which OED to execute and graph appearance
 %% Solution Solving
 
 %set simulation time
