@@ -12,7 +12,7 @@ d_2 = parameters(8);
 
 J1 = 0.0001;
 
-J2 = 0;
+J2 = 0.0001;
 
 G = I^n / (Ki^n + I^n); %hill function for R-I interaction
 
